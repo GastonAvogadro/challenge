@@ -5,7 +5,7 @@ import location from "../assets/location.png";
 function Footer() {
   return (
     <footer className="bg-blueDark text-white px-[25px] md:px-[100px] flex flex-col items-center">
-      <div className="flex flex-col gap-4 md:gap-0 md:flex-wrap justify-between py-8 w-full">
+      <div className="flex flex-col md:flex-row gap-4 md:gap-0 md:flex-wrap justify-between py-8 w-full">
         <div>
           <p className="text-[1.1rem] md:text-[1.75rem] font-medium">Join our newsletter and get offers</p>
           <p className="text-[0.9rem] md:text-[1.25rem]">Sign up our newsletter</p>
